@@ -11,10 +11,10 @@
 PROJECT_ID:  quant-jun
 TYPE:        course
 STATUS:      Active Development
-VERSION:     0.1
+VERSION:     0.2
 LANGUAGE:    Ukrainian (технічні терміни — English)
-AUDIENCE:    [уточнити після визначення теми курсу]
-GOAL:        [уточнити після визначення теми курсу]
+AUDIENCE:    Junior developers, студенти фінансів/технічних напрямів, початківці-аналітики з базовим Python
+GOAL:        Дати практичну базу quantitative finance: дані, метрики дохідності/ризику, прості перевірки ідей
 ```
 
 ---
@@ -29,13 +29,15 @@ quant-jun/
 │   ├── handover_template.md     ← Шаблон передачі між сесіями
 │   └── logs/                    ← Журнал сесій (YYYY-MM-DD_session_NN_*.md)
 │
+├── modules/                     ← Теоретичні модулі курсу
+├── exercises/                   ← Практичні завдання
+├── assessments/                 ← Квізи та критерії перевірки
 ├── llms.txt                     ← Цей файл — карта репозиторію для LLM
 ├── README.md                    ← Публічний опис репозиторію
 └── LICENSE                      ← Ліцензія
 ```
 
-> **Навчальний контент** буде додано після визначення теми курсу.  
-> Очікувана структура: `modules/`, `exercises/`, `assessments/`
+> Базова тема курсу зафіксована: **Quant Junior: Основи кількісних фінансів з Python**.
 
 ---
 
