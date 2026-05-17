@@ -26,6 +26,7 @@
 - `assessments/` — критерії оцінювання та формат заїздів
 - `project/` — постійна робота над одним файлом проєкту (`line_follower_project.ino`)
 - `exercises/team-printables.md` — друковані чек-листи та картки ролей
+- `exercises/parent-demo-day-brief.md` — короткий бриф для батьків і Demo Day
 - `modules/teacher-quick-debug-guide.md` — швидкий довідник викладача з дебагу
 
 Почніть з `modules/README.md`.

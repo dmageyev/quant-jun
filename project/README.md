@@ -19,6 +19,7 @@
 ## Повні приклади по етапах
 
 - `full-code-checkpoints.md` — повні кодові версії для занять 01..04.
+- `release-checklist.md` — freeze-checklist перед фінальним заліком.
 
 ## Фінальна ціль
 
