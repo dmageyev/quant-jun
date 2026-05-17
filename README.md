@@ -24,6 +24,7 @@
 - `modules/` — план і зміст занять
 - `exercises/` — практичні завдання
 - `assessments/` — критерії оцінювання та формат заїздів
+- `project/` — постійна робота над одним файлом проєкту (`line_follower_project.ino`)
 - `exercises/team-printables.md` — друковані чек-листи та картки ролей
 - `modules/teacher-quick-debug-guide.md` — швидкий довідник викладача з дебагу
 
