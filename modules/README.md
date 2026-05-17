@@ -7,6 +7,7 @@
 3. `module-03-p-controller-and-calibration.md` — P-контролер і калібрування моторів.
 4. `module-04-full-run-and-debug.md` — повний заїзд, перехрестя, пошук багів.
 5. `module-05-team-race.md` — командні змагання та підсумок.
+6. `teacher-quick-debug-guide.md` — короткий гайд для викладача по типових збоях.
 
 Кожен модуль має структуру:
 - Аналогія

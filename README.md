@@ -24,5 +24,7 @@
 - `modules/` — план і зміст занять
 - `exercises/` — практичні завдання
 - `assessments/` — критерії оцінювання та формат заїздів
+- `exercises/team-printables.md` — друковані чек-листи та картки ролей
+- `modules/teacher-quick-debug-guide.md` — швидкий довідник викладача з дебагу
 
 Почніть з `modules/README.md`.
