@@ -4,7 +4,7 @@
 
 ## 1) Freeze коду
 
-- [ ] Визначено фінальні значення: `Kp`, `baseLeft`, `baseRight`, `crossForwardMs`.
+- [ ] Визначено фінальні значення: `Kp`, `baseLeft`, `baseRight`, `intersectionForwardMs`.
 - [ ] Після freeze не змінюємо логіку без нового повного циклу тестів.
 - [ ] Збережено копію фінального файлу `line_follower_project.ino`.
 

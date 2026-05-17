@@ -6,7 +6,7 @@ const int threshold = 500;
 int baseLeft = 130;
 int baseRight = 130;
 float Kp = 7.0;
-int crossForwardMs = 180;
+int intersectionForwardMs = 180;
 
 void setMotorRaw(int pwm, int in1, int in2, int speed) {
   int s = constrain(speed, -255, 255);
@@ -92,7 +92,7 @@ void loop() {
   if (cross) {
     printCrossDebug(s3, s4, s5, s6, true, "GO_STRAIGHT_THROUGH_CROSS");
     setMotorSpeeds(baseLeft, baseRight);
-    delay(crossForwardMs);
+    delay(intersectionForwardMs);
   } else {
     printCrossDebug(s3, s4, s5, s6, false, "FOLLOW_LINE");
     followLineWithP();

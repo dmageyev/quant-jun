@@ -227,7 +227,7 @@ void loop() {
 
   if (cross) {
     printCrossDebug(s3, s4, s5, s6, true, "GO_STRAIGHT_THROUGH_CROSS");
-    setMotorSpeeds(130, 130);
+    setMotorSpeeds(baseLeft, baseRight);
     delay(180);
   } else {
     printCrossDebug(s3, s4, s5, s6, false, "FOLLOW_LINE");
